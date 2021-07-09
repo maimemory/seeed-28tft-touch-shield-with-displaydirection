@@ -1,7 +1,7 @@
 Touch Screen Driver
 ---------------------------------------------------------
 
-[![TFT_Touch_Shield_V2](http://www.seeedstudio.com/depot/images/product/2.8touch%20shieldv2.jpg)](http://www.seeedstudio.com/depot/28-tft-touch-shield-v20-p-1286.html?cPath=34_36)
+![](https://raw.githubusercontent.com/SeeedDocument/TFT_Touch_Shield_V2/master/images/main.jpg)
 
 This is a multifunctional Arduino/Seeeduino/Arduino Mega compatible resistive touch screen. It can be used as display device or sketch pad.Compared with the previous version, 2.8’’TFT Touch Shield V1.0 , we replaced the screen driver with a more professional chip, ILI9341 driver, providing different pin-saving SPI communication without sacrificing the data transmitting speed. Due to the communication method change, programs developed for the original version need modifications before being transplanted to the new version. With a SD card module integrated also on this shield, this shield reserves great room for other expansions to your project.
 
